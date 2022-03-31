@@ -6,6 +6,11 @@ const targetWords = [
   "Blowy",
   "fetus",
   "cummy",
+  "prick",
+  "minge",
+  "fanny",
+  "flaps",
+  "moist",
   "nonce", 
   "sluts",
   "pussy",
@@ -37,14 +42,18 @@ const targetWords = [
   "dildo",
   "porno",
   "panty",
+  "muffs",
+  "pubes",
+  "taint",
   "pissy",
   "spank",
+  "dirty",
   "cuffs",
   "vulva",
   "choke",
   "chain",
   "sperm", 
-  "bitch", "boner", "boobs", "booty", "busty", "camel", "cocks", "coons", "dildo", "dirty", "doggy", "fecal", "felch", "group", "horny", "juggs", "kinky", "penis", "chest", "porno", "pubes", "pussy", "queef", "boner", "semen", "pussy", "skeet", "spunk", "dildo", "strip", "doggy", "tight", "titty", "tushy","vulva", "whore"]
+  "bitch", "boner", "boobs", "booty", "busty", "camel", "cocks", "coons", "dildo", "dirty", "doggy", "fecal", "felch", "group", "horny", "juggs", "kinky", "penis", "chest", "porno", "pubes", "pussy", "queef", "boner", "semen", "pussy", "skeet", "spunk", "pound", "dildo", "strip", "doggy", "tight", "titty", "tushy","vulva", "whore"]
 
 const dictionary = targetWords
 
